@@ -64,3 +64,7 @@ finance-dashboard/
 ## Note
 
 If `npm install` fails with **EBUSY** under OneDrive, copy the folder to e.g. `C:\finance-dashboard` and run commands there.
+
+
+## 👩‍💻 Author
+Sujata More
